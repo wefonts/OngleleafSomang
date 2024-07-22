@@ -1,1 +1,16 @@
-# OngleleafSomang
+<pre>
+@font-face {
+    font-family: "OngleleafSomang";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafSomang/OngleleafSomang.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafSomang/OngleleafSomang.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafSomang/OngleleafSomang.ttf") format("truetype");
+    font-display: swap;
+}
+
+.OngleleafSomang {
+    font-family: "OngleleafSomang";
+}
+  
+</pre>
